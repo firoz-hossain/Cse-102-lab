@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main (){
 
-     int n,raw,col;
+     int n,row,col;
      printf("Enter your N:");
      scanf("%d",&n);
      for(row=1;row<=n;row++)
