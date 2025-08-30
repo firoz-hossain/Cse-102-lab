@@ -11,4 +11,4 @@ int main() {
     else
         printf("Odd\n");
     return 0;
-}
+×
